@@ -1,0 +1,8 @@
+.registerButton{
+   background-color: #f63e7b;
+   color: #fff;
+}
+.registerButton:hover,.registerButton:focus{
+   background-color: #f63e7b;
+   color: #fff;
+}

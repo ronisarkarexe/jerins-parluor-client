@@ -1,0 +1,28 @@
+.HomeSliderBg{
+   background-color: rgb(255, 252, 217);
+}
+
+/* AwesomeServices */
+.AwesomeService{
+   padding: 25px 16px;
+}
+.AwesomeService:hover{
+   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   padding: 25px 16px;
+   border-radius: 7px;
+   cursor: pointer;
+}
+.AwesomeService img{
+   width: 65px;
+}
+.testimonials{
+   background-color: rgb(255, 252, 217);
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.testimonials img{
+   width: 65px;
+   border-radius: 50px;
+}
+.star-color{
+   color: goldenrod;
+}

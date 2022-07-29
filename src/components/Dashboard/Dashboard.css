@@ -1,0 +1,27 @@
+.bookImage img{
+   width: 60px;
+}
+.book-button-p{
+   border: 1px solid rgb(192, 247, 192);
+   background-color: rgba(122, 251, 122, 0.516);
+   color: green;
+   border-radius: 4px;
+   padding: 3px 15px;
+}
+.book-button-d{
+   border: 1px solid #fbb4cc;
+   background-color: #fd6f9e77;
+   color: #f63e7b;
+   border-radius: 4px;
+   padding: 3px 15px;
+}
+.book-button{
+   border: 1px solid #f63e7b;
+   background-color: #f63e7b;
+   color: #fff;
+   border-radius: 4px;
+   padding: 3px 15px;
+}
+.user-dashboard img{
+   width: 120px;
+}

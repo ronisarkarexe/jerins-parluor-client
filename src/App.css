@@ -1,0 +1,85 @@
+/* Global Classes */
+
+/* color code */
+.bg-color{
+  background-color: rgb(255, 252, 217);
+}
+.bg-color1{
+  background-color: #f63e7b;
+}
+.n-color1{
+  color: #f63e7b;
+}
+.n-color2{
+  color:  rgb(255, 252, 217);
+}
+
+/* button class */
+.btn-button{
+  border: 1px solid #f63e7b;
+  padding: 8px 30px;
+  background-color: #f63e7b;
+  color: #fff;
+  font-weight: 400;
+  border-radius: 6px;
+}
+.btn-button:hover{
+  border: 1px solid #f63e7b;
+  padding: 8px 30px;
+  background-color: #fff;
+  color: #f63e7b;
+  font-weight: 400;
+  border-radius: 6px;
+  transition: 1s ease-in-out;
+}
+
+/* bootstrap from modify*/
+.form-control{
+  border: 1px solid #f63e7b;
+}
+.form-control:focus,.form-select:focus {
+  border-color: #f63e7b;
+  box-shadow: none;
+}
+
+/* link color */
+.link-color-routing{
+  color:#000
+}
+.link-color-routing:hover{
+  color: #000
+}
+.link-color-routing:focus{
+  color:#f63e7b;
+}
+
+/* all Cards */
+.allCards{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 25px;
+}
+
+@media only screen and (max-width: 769px) {
+  .allCards{
+     grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media only screen and (max-width: 527px) {
+  .allCards{
+     grid-template-columns: repeat(1, 1fr);
+  }
+  .marginTopMV{
+    margin-top: 25px;
+  }
+}
+@media only screen and (max-width: 426px) {
+  .allCards{
+     grid-template-columns: repeat(1, 1fr);
+  }
+  .marginTopMV{
+    margin-top: 25px;
+  }
+}
+

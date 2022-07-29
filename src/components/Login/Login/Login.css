@@ -1,0 +1,23 @@
+.loginLogo img{
+   width: 140px;
+}
+.loginGoogle button{
+   background-color: #fff;
+   width: 280px;
+   border: 1px solid #f63e7b;
+   border-radius: 50px;
+   padding: 3px 0px;
+}
+.loginGoogle img {
+   width: 25px;
+   background-color: #fff;
+}
+.link-color{
+   color:#f63e7b;
+}
+.link-color:hover{
+   color:#f63e7b;
+}
+.link-color:focus{
+   color:#f63e7b;
+}
