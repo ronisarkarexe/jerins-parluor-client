@@ -1,4 +1,4 @@
-# Live Link; https://jerins-parlour-3c43f.web.app
+# Live Link: https://jerins-parlour-3c43f.web.app
 
 ## Technology
 
