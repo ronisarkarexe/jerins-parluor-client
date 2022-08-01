@@ -1,5 +1,7 @@
 # Live Link: https://jerins-parlour-3c43f.web.app
 
+## Server Link: https://github.com/ronisarkarexe/jerins-parluor-server
+
 ## Technology
 
 Firebase auth, Express.JS, React.JS, Boostrap5, MongoDB, React-router, Etc.
